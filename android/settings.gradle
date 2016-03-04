@@ -1,0 +1,3 @@
+rootProject.name = 'BookSearchDemo'
+
+include ':app'
